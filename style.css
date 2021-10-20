@@ -1,0 +1,43 @@
+body {
+  background-color: #f3f1ff;
+}
+.navbar img {
+  width: 70px;
+}
+.navbar {
+  background-color: #562eff;
+}
+.player img {
+  width: 56px;
+}
+main {
+  max-width: 870px;
+}
+.top-player {
+  border-bottom: 1px solid #000;
+  margin-top: 30px;
+}
+.top-player,
+.top-blog,
+.latest-course {
+  background-color: #fff;
+}
+.top-blog {
+  border-radius: 10px;
+}
+h3 {
+  color: #562eff;
+  margin: 22px 0;
+  padding-top: 20px;
+}
+.p-name {
+  padding: 10px;
+  font-weight: 700;
+}
+.blog img {
+  width: 200px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 50px lightgray;
+}
